@@ -1,0 +1,1 @@
+import{r as e}from"./Page-DqYdeW1p.js";import{t}from"./GymPanel-Bc2pKVez.js";import{t as n}from"./jsx-runtime-zP9JbeWQ.js";var r=n();function i(){return(0,r.jsx)(e,{title:`Gym`,subtitle:`Plan a session, start one, and see your week.`,children:(0,r.jsx)(t,{})})}export{i as GymPage};
