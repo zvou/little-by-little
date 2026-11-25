@@ -1,0 +1,314 @@
+{
+ "frames": {
+  "cosy-bed": {
+   "frame": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 46
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 46
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 46
+   }
+  },
+  "quilted-bed": {
+   "frame": {
+    "x": 36,
+    "y": 0,
+    "w": 34,
+    "h": 46
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 46
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 46
+   }
+  },
+  "woven-rug": {
+   "frame": {
+    "x": 72,
+    "y": 0,
+    "w": 66,
+    "h": 38
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 66,
+    "h": 38
+   },
+   "sourceSize": {
+    "w": 66,
+    "h": 38
+   }
+  },
+  "exercise-mat": {
+   "frame": {
+    "x": 140,
+    "y": 0,
+    "w": 60,
+    "h": 26
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 60,
+    "h": 26
+   },
+   "sourceSize": {
+    "w": 60,
+    "h": 26
+   }
+  },
+  "writing-desk": {
+   "frame": {
+    "x": 0,
+    "y": 48,
+    "w": 33,
+    "h": 29
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 33,
+    "h": 29
+   },
+   "sourceSize": {
+    "w": 33,
+    "h": 29
+   }
+  },
+  "cat-basket": {
+   "frame": {
+    "x": 35,
+    "y": 48,
+    "w": 30,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 30,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 30,
+    "h": 22
+   }
+  },
+  "window-plants": {
+   "frame": {
+    "x": 67,
+    "y": 48,
+    "w": 54,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 54,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 54,
+    "h": 22
+   }
+  },
+  "herb-pot": {
+   "frame": {
+    "x": 123,
+    "y": 48,
+    "w": 24,
+    "h": 24
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 24,
+    "h": 24
+   },
+   "sourceSize": {
+    "w": 24,
+    "h": 24
+   }
+  },
+  "wall-clock": {
+   "frame": {
+    "x": 149,
+    "y": 48,
+    "w": 22,
+    "h": 28
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 22,
+    "h": 28
+   },
+   "sourceSize": {
+    "w": 22,
+    "h": 28
+   }
+  },
+  "star-picture": {
+   "frame": {
+    "x": 0,
+    "y": 79,
+    "w": 28,
+    "h": 22
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 28,
+    "h": 22
+   },
+   "sourceSize": {
+    "w": 28,
+    "h": 22
+   }
+  },
+  "trophy-shelf": {
+   "frame": {
+    "x": 30,
+    "y": 79,
+    "w": 36,
+    "h": 26
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 36,
+    "h": 26
+   },
+   "sourceSize": {
+    "w": 36,
+    "h": 26
+   }
+  },
+  "gold-star": {
+   "frame": {
+    "x": 68,
+    "y": 79,
+    "w": 26,
+    "h": 26
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 26,
+    "h": 26
+   },
+   "sourceSize": {
+    "w": 26,
+    "h": 26
+   }
+  },
+  "chefs-stove": {
+   "frame": {
+    "x": 96,
+    "y": 79,
+    "w": 34,
+    "h": 38
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 38
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 38
+   }
+  },
+  "reading-chair": {
+   "frame": {
+    "x": 132,
+    "y": 79,
+    "w": 34,
+    "h": 34
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 34,
+    "h": 34
+   },
+   "sourceSize": {
+    "w": 34,
+    "h": 34
+   }
+  },
+  "arcade-machine": {
+   "frame": {
+    "x": 168,
+    "y": 79,
+    "w": 22,
+    "h": 40
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 22,
+    "h": 40
+   },
+   "sourceSize": {
+    "w": 22,
+    "h": 40
+   }
+  }
+ },
+ "meta": {
+  "app": "art/furniture/furniture.mjs",
+  "image": "furniture.png",
+  "format": "RGBA8888",
+  "size": {
+   "w": 200,
+   "h": 119
+  },
+  "scale": "1"
+ }
+}

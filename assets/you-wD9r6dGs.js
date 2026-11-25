@@ -1,0 +1,1 @@
+var e=`/little-by-little/assets/you-gNb8UGJM.png`;export{e as t};

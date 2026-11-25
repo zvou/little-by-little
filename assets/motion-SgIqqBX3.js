@@ -1,0 +1,1 @@
+function e(){return typeof document<`u`&&document.documentElement.dataset.motion===`less`||typeof window<`u`&&window.matchMedia?.(`(prefers-reduced-motion: reduce)`).matches||!1}export{e as t};

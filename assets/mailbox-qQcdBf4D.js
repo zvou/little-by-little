@@ -1,0 +1,1 @@
+var e=`/little-by-little/assets/village-DxGiUViU.png`,t=[{id:`blue`,name:`Blue`},{id:`red`,name:`Red`},{id:`green`,name:`Green`},{id:`honey`,name:`Honey`}],n=e=>t.some(t=>t.id===e),r=e=>n(e)&&e!==`blue`?`mailbox-${e}`:`mailbox`;export{r as n,e as r,t};
